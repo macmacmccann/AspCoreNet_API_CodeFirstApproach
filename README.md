@@ -1,4 +1,5 @@
-# CA1 Backend - ASP.NET Core API
+# Backend - ASP.NET Core API C# -> Java Android App
+
 
 ## About the App
 
